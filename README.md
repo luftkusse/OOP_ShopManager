@@ -1,6 +1,6 @@
 # Постановка задачи описана в отчёте к работе.
 # UML-диаграмма проекта:
-![image](https://user-images.githubusercontent.com/80095098/212629553-3e107e0f-6cf5-40d3-8bf3-41b008c49111.png)
+![image](https://user-images.githubusercontent.com/80095098/212630024-3291fb75-09f3-4f17-b57e-c0398d06d4d9.png)
 # Чтобы запустить Юнит-тесты откройте обозреватель тестов, кликнув на "Тест", а затем на "Обозреватель тестов". После запустите тесты кликнув на "Запустить все".
 
 ![image](https://user-images.githubusercontent.com/80095098/212476091-e7162ff9-a6c4-42f7-adab-a75df87fff24.png)
